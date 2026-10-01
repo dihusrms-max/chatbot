@@ -9,6 +9,7 @@ authors = [
 requires-python = ">=3.12"
 dependencies = [
     "langchain>=1.4.3",
+    "openai>=3.22.1",
     "streamlit>=1.64.0",
 ]
 
